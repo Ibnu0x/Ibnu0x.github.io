@@ -23,7 +23,7 @@
   </head>
   <style>
     body {
-      background-image: url(https://i.postimg.cc/j58XQNy3/starry-sky-shine-night-blue-wallpaper-preview.jpg);
+      background-image: url(https://i.postimg.cc/DyDxMt8v/pexels-photo-8489373.jpg);
       background-repeat: no-repeat;
       background-size: cover;
       background-position-y: bottom;
@@ -36,7 +36,7 @@
   <body>
     <div id="bodyblur">
       <!-- <img
-        src="https://i.postimg.cc/j58XQNy3/starry-sky-shine-night-blue-wallpaper-preview.jpg"
+        src="https://i.postimg.cc/DyDxMt8v/pexels-photo-8489373.jpg"
         width="100%"
         height="100%"
       /> -->
