@@ -23,7 +23,7 @@
   </head>
   <style>
     body {
-      background-image: url(https://i.postimg.cc/NMLZ6Zk5/IMG-20220207-131156-010.jpg);
+      background-image: url(https://i.postimg.cc/j58XQNy3/starry-sky-shine-night-blue-wallpaper-preview.jpg);
       background-repeat: no-repeat;
       background-size: cover;
       background-position-y: bottom;
@@ -36,7 +36,7 @@
   <body>
     <div id="bodyblur">
       <!-- <img
-        src="https://i.postimg.cc/NMLZ6Zk5/IMG-20220207-131156-010.jpg"
+        src="https://i.postimg.cc/j58XQNy3/starry-sky-shine-night-blue-wallpaper-preview.jpg"
         width="100%"
         height="100%"
       /> -->
@@ -68,7 +68,7 @@
 
       const swals = Swal.mixin({
         allowOutsideClick: false,
-        cancelButtonColor: "#FF0040",
+        cancelButtonColor: "black",
       })
       const swalsy = Swal.mixin({
         confirmButtonText: "Iya",
@@ -117,7 +117,7 @@
           imageHeight: 120,
         })
         await swalst.fire({
-          title: "Istirahat lah, biar ilang capeknya...",
+          title: "Istirahaat, biar ilang capeknya...",
           imageUrl: "https://i.postimg.cc/SsmkcNY9/bear-cute-1.gif",
           imageWidth: 120,
           imageHeight: 120,
